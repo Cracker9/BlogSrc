@@ -1,0 +1,11 @@
+extends includes/layout
+
+block content
+  - var isTagIndex = page.type === 'tags' || page.type === 'tag';
+  - var isCategoryIndex = page.type === 'categories' || page.type === 'category';
+  if isTagIndex
+    include includes/tag-page
+  else if isCategoryIndex
+    include includes/category-page
+  else
+    include includes/article

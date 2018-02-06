@@ -4,14 +4,20 @@
     var _current = current.replace(/\/?index.html/, '');
     return _target === _current;
   }
+
 -
-  function mainPage() {
-    if (page.path == 'index.html') {
+ function mainPage() {
+   var this_page = page.path.split("/")[0];
+   if (this_page == 'index.html' || this_page == 'page') {
       return true;
-    } else {
-      return false;
     }
-  }
+   for (key in theme.menu) {
+     if (this_page == key.toLowerCase()) {
+       return true;
+     }
+   }
+   return false;
+ }
 
 nav#menu.menu(class=mainPage() ? 'main' : '')
   .menu-inner
@@ -23,7 +29,7 @@ nav#menu.menu(class=mainPage() ? 'main' : '')
             title="Home"
             rel="home")
             img.menu__item__link--brand__image(
-              src=theme.favicon
+              src=theme.logo
               alt=config.title)
     .menu__right-area
       each url, label in theme.menu

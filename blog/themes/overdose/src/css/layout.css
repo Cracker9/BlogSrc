@@ -15,6 +15,12 @@
   @media (--desktop) {
     margin-top: var(--menu-height);
   }
+  &.main {
+    margin-top: 320px;
+    @media (--desktop) {
+      margin-top: 320px;
+    }
+  }
 }
 
 .content-inner {

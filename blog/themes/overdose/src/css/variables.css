@@ -1,6 +1,7 @@
 :root {
   /* Colors */
   --white: #FFF;
+  --white-alpha: rgba(255,255,255,.5);
   --semi-white: #F6F6F6;
   --black: #454545;
   --bold-black: #222;

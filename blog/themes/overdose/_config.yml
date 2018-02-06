@@ -1,9 +1,8 @@
 # main menu navigation
 menu:
   Home: /
-  About: /about
   Archives: /archives
-  Tag: /tags
+  Tags: /tags
   Categories: /categories
 
 # Images

@@ -1,3 +1,12 @@
+-
+  function mainPage() {
+    if (page.path == 'index.html') {
+      return true;
+    } else {
+      return false;
+    }
+  }
+
 doctype html
 html(lang=config.language)
   head
@@ -6,7 +15,7 @@ html(lang=config.language)
     include menu
     .page-background
     .content-container
-      .content-outer
+      .content-outer(class=mainPage() ? 'main' : '')
         .content-inner(itemscope itemtype="https://schema.org/Blog")
           if body
             div!= body

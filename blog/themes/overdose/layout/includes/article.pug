@@ -12,15 +12,7 @@ article#article.article(itemscope itemtype="https://schema.org/BlogPosting")
     time.article__meta__time(
       datetime=date_xml(page.date)
       itemprop="datePublished"
-    )= full_date(page.date)
-    if page.categories && page.categories.length
-      .article__meta__categories
-        each category, index in page.categories.data
-          a.article__meta__categories__item(
-            href=url_for(category.path)
-          )= category.name
-          unless index === page.categories.length - 1
-            span.article__meta__categories__separator >
+    )= page.date.format(config.date_format) + ' • ' + page.author
   unless (page.banner && page.banner.url) || (page.photos && page.photos.length)
     hr
 

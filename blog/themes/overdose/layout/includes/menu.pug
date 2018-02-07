@@ -1,27 +1,13 @@
 -
   function equalPath(target, current) {
-    var _target = target.slice(1, target.length);
-    var _current = current.replace(/\/?index.html/, '');
+    var _target = target.slice(1, target.length) || "page";
+    var _current = current.replace(/\/?index.html/, '') || "page";
     return _target === _current;
   }
 
--
- function mainPage() {
-   var this_page = page.path.split("/")[0];
-   if (this_page == 'index.html' || this_page == 'page') {
-      return true;
-    }
-   for (key in theme.menu) {
-     if (this_page == key.toLowerCase()) {
-       return true;
-     }
-   }
-   return false;
- }
-
-nav#menu.menu(class=mainPage() ? 'main' : '')
+nav#menu.menu(class=pageType() ? 'main' : '')
   .menu-inner
-    if !mainPage()
+    if !pageType()
       .menu__left-area.ater
         .menu__item
           a.menu__item__link.menu__item__link--brand(
@@ -33,5 +19,5 @@ nav#menu.menu(class=mainPage() ? 'main' : '')
               alt=config.title)
     .menu__right-area
       each url, label in theme.menu
-        .menu__item(class=equalPath(url, page.path) ? 'menu__item--active' : '')
+        .menu__item(class=equalPath(url, page.path.split("/")[0]) ? 'menu__item--active' : '')
           a.menu__item__link(href=url)= label

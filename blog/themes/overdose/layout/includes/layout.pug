@@ -1,10 +1,18 @@
 -
-  function mainPage() {
-    if (page.path == 'index.html') {
-      return true;
-    } else {
-      return false;
+  (function () {
+    var this_page = page.path.split("/")[0];
+    if (this_page == 'index.html' || this_page == 'page') {
+      return pageTypeFull = true;
     }
+    for (key in theme.menu) {
+      if (this_page == key.toLowerCase()) {
+        return pageTypeFull = true;
+      }
+    }
+    return pageTypeFull = false;
+  })()
+  function pageType() {
+    return pageTypeFull;
   }
 
 doctype html
@@ -15,7 +23,7 @@ html(lang=config.language)
     include menu
     .page-background
     .content-container
-      .content-outer(class=mainPage() ? 'main' : '')
+      .content-outer(class=pageType() ? 'main' : '')
         .content-inner(itemscope itemtype="https://schema.org/Blog")
           if body
             div!= body

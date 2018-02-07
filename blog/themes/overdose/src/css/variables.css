@@ -1,25 +1,28 @@
 :root {
   /* Colors */
   --white: #FFF;
-  --white-alpha: rgba(255,255,255,.5);
   --semi-white: #F6F6F6;
-  --black: #454545;
-  --bold-black: #222;
+
+  --black: #000;
+
   --gray: #999;
-  --darked-gray: #666;
+  --medium-gray: #666;
+  --darked-gray: #333;
   --lighted-gray: #EDEDED;
+
   --primary-sky: rgb(89, 171, 227);
   --darked-sky: color(var(--primary-sky) shade(20%));
   --lighted-sky: color(var(--primary-sky) tint(20%));
-  --secondary-yellow: #E28F0B;
+
+  --white-alpha: rgba(255,255,255,.5);
 
   /* Pixels */
   --em-base: 16px;
 
-  --base-margin: 1.5rem;
+  --base-margin: 68px;
   --menu-height: 4rem;
-  --content-width: 45rem;
-  --container-width: 72rem;
+  --content-width: 890px;
+  --container-width: 800px;
 
   --bold-font: 500;
 

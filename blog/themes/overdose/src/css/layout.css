@@ -27,3 +27,9 @@
   width: 100%;
   padding: var(--base-margin) 0;
 }
+
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}

@@ -54,11 +54,7 @@
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
-  transition: transform 0.3s ease;
-}
-
-.post-list__item__meta {
-
+  transition: transform 0.27s ease;
 }
 
 .post-list__item__meta__link {

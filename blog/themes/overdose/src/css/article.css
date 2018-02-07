@@ -289,7 +289,7 @@
   padding: 0 0.5rem;
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.27s ease;
 
   &:hover {
     background-color: var(--lighted-sky);
@@ -388,7 +388,7 @@
   right: 0;
   left: 0;
   bottom: 0;
-  transition: transform 0.3s ease;
+  transition: transform 0.27s ease;
 }
 
 .related-posts__item__overlay {

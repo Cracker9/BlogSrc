@@ -7,7 +7,7 @@
 
 
 article#article.article(itemscope itemtype="https://schema.org/BlogPosting")
-  h1.article__title(itemprop="headline")= page.title || 'Untitled'
+  h1.article__title(itemprop="headline")!= page.title || 'Untitled'
   .article__meta
     time.article__meta__time(
       datetime=date_xml(page.date)

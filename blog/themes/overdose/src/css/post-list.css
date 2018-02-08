@@ -2,16 +2,15 @@
 
 .post-list {
   position: relative;
-  width: 100%;
   max-width: var(--content-width);
   margin: auto;
   padding: 0 1rem;
-  box-sizing: border-box;
+  box-sizing: content-box;
 }
 
 .post-list__item {
   overflow: hidden;
-  padding: 14px 42px 35px;
+  padding: 14px 0 35px;
   border-bottom: 1px solid var(--semi-white);
 }
 

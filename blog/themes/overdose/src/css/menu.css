@@ -20,8 +20,13 @@
   box-sizing: border-box;
   transition: transform 0.27s ease;
   &.main {
-    height: 320px;
-    background: no-repeat center url("/images/home-bg.jpg") #0051a4;
+    height: 240px;
+    background: no-repeat center url("/images/home-bg-m.jpg") #0051a4;
+    background-size: cover;
+    @media (--desktop) {
+      height: 320px;
+      background: no-repeat center url("/images/home-bg.jpg") #0051a4;
+    }
     & .menu__item {
       &.menu__item--active .menu__item__link {
         color: var(--primary-sky);
@@ -59,7 +64,6 @@
   @media (--mobile) {
     width: 100%;
     text-align: center;
-    border-bottom: 1px solid var(--semi-white);
   }
   & .menu__item {
     float: none;

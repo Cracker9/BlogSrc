@@ -14,42 +14,41 @@ article#article.article(itemscope itemtype="https://schema.org/BlogPosting")
       itemprop="datePublished"
     )= page.date.format(config.date_format) + ' • ' + page.author
   unless (page.banner && page.banner.url) || (page.photos && page.photos.length)
-    hr
 
   .article__contents
     != page.content
 
-  if page.tags && page.tags.length
-    .article__tags
-     - page.tags.each(function(tag) {
-         a.article__tags__item(href=url_for(tag.path))= tag.name
-     - })
+  //- if page.tags && page.tags.length
+  //-   .article__tags
+  //-    - page.tags.each(function(tag) {
+  //-        a.article__tags__item(href=url_for(tag.path))= tag.name
+  //-    - })
 
-  - var profileImageSrc = theme.profile.image || gravatar(theme.profile.gravatar || '');
-  .article__author(
-    itemscope
-    itemprop="author"
-    itemtype="https://schema.org/Person")
-    img.article__author__image(
-      src=profileImageSrc
-      alt=config.author)
-    a.article__author__link(
-      href=theme.profile.link
-      title=`About ${config.author}`
-      rel="author"
-    )= config.author
-    p.article__author__desc= theme.profile.description || config.description
-    .article__author__socials
-      each url, label in theme.profile.social
-        if url
-          a.article__author__socials__item(
-            href=url
-            title=label
-            target="_blank")
-            i(class=`fa fa-${label}`)
-    meta(itemprop="name" content=config.author)
+  //- - var profileImageSrc = theme.profile.image || gravatar(theme.profile.gravatar || '');
+  //- .article__author(
+  //-   itemscope
+  //-   itemprop="author"
+  //-   itemtype="https://schema.org/Person")
+  //-   img.article__author__image(
+  //-     src=profileImageSrc
+  //-     alt=config.author)
+  //-   a.article__author__link(
+  //-     href=theme.profile.link
+  //-     title=`About ${config.author}`
+  //-     rel="author"
+  //-   )= config.author
+  //-   p.article__author__desc= theme.profile.description || config.description
+  //-   .article__author__socials
+  //-     each url, label in theme.profile.social
+  //-       if url
+  //-         a.article__author__socials__item(
+  //-           href=url
+  //-           title=label
+  //-           target="_blank")
+  //-           i(class=`fa fa-${label}`)
+  //-   meta(itemprop="name" content=config.author)
 
-  include sharer
+  //- include sharer
 
   if theme.liveRe && theme.liveRe.uid
     #lv-container(data-id="city", data-uid=theme.liveRe.uid)

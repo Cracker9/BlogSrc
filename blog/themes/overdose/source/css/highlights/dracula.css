@@ -2,12 +2,12 @@
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  background: #282a36;
-  color: #f8f8f2; }
+  background: #f6f6f6;
+  color: #666666; }
   .highlight .line {
     min-height: 1.5em; }
   .highlight .subst {
-    color: #f8f8f2; }
+    color: #d0d0d0 ; }
   .highlight .keyword,
   .highlight .selector-tag,
   .highlight .section,

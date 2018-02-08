@@ -22,3 +22,16 @@ hexo server
 ```
 hexo deploy
 ```
+
+## 빌드
+
+1. 테마 파일 빌드 (해당 테마 폴더 위치)
+```
+$ npm run-script build
+```
+
+2. 퍼블릭 폴더 빌드 (해당 Hexo 폴더 위치)
+
+```
+$ hexo generate
+```

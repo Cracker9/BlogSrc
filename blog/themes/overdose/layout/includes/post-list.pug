@@ -52,8 +52,8 @@ section.post-list
           else
             a(
               href=url_for(post.path)
-              title=post.title || 'Untitled'
-            )= post.title || 'Untitled'
+              title!=post.title || 'Untitled'
+            )!= post.title || 'Untitled'
         p.post-list__item__description #{post.date.format(config.date_format)} • #{post.author || config.author}
 
 // <% if(item.author) { %>

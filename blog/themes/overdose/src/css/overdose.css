@@ -15,7 +15,6 @@ body {
   height: 100%;
   margin: 0;
   color: var(--black);
-  line-height: 1.5em;
   -webkit-font-smoothing: antialiased;
   table-layout: fixed;
 }
@@ -23,7 +22,7 @@ body {
 a {
   text-decoration: none;
   color: var(--primary-sky);
-  transition: color 0.3s ease;
+  transition: color 0.27s ease;
   &:hover {
     color: var(--darked-sky);
   }

@@ -2,17 +2,75 @@
 
 .article {
   position: relative;
-  padding: 1rem;
+  padding: 0 1rem;
   overflow: hidden;
-  max-width: var(--content-width);
+  max-width: var(--content-width-article);
   margin: auto;
 
   @media (--mobile) {
     padding-top: 0;
   }
 
+  & h1 {
+    font-size: 48px;
+    font-weight: 900;
+    margin: 59px 0 7px;
+    & + h2 {
+      margin-top: 27px;
+    }
+  }
+  & h2 {
+    font-size: 24px;
+    font-weight: 900;
+    margin: 47px 0 7px;
+    & + h3 {
+      margin-top: 27px;
+    }
+  }
+  & h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 54px 0 7px;
+    & + h4 {
+      margin-top: 15px;
+    }
+  }
+  & h4 {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 45px 0 7px;
+  }
+  & h5,
+  & h6 {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 7px 0;
+  }
+
   /* Article common styles */
+  & .article__title {
+    padding-top: 2px;
+    line-height: 1.21em;
+    margin: 0;
+  }
+
   & .article__contents {
+    margin-top: 56px;
+
+    & h1:first-child,
+    & h2:first-child,
+    & h3:first-child,
+    & h4:first-child,
+    & h5:first-child,
+    & h6:first-child {
+      margin-top: 0;
+    }
+
+    & p {
+      line-height: 2.15;
+      margin: 7px 0;
+    }
+
     & img {
       display: block;
       margin: 1rem;
@@ -30,21 +88,12 @@
       }
     }
 
-    & h1,
-    & h2,
-    & h3,
-    & h4,
-    & h5,
-    & h6 {
-      color: var(--bold-black);
-      margin-top: 3rem;
-    }
-
     & blockquote {
-      background-color: var(--semi-white);
-      padding: var(--base-margin) 1rem;
-      margin-left: -1rem;
-      margin-right: -1rem;
+      background-color: var(--white);
+      margin: 10px 0;
+      padding: 20px 25px;
+      font-size: 14px;
+      border: solid 1px var(--lighted-gray);
       & p {
         margin: 0;
         & + p {
@@ -74,7 +123,7 @@
     & code {
       font-family: consolas, monospace;
       background-color: var(--semi-white);
-      color: var(--secondary-yellow);
+      color: #ec008c;
       padding: 0.125rem 0.25rem;
       border-radius: 2px;
       margin-left: 0;
@@ -82,12 +131,15 @@
     }
 
     & figure.highlight {
-      padding: 0 1rem;
-      margin-left: -1rem;
-      margin-right: -1rem;
+      padding: 0 28px 0 24px;
+      margin: 11px 0;
 
       & * {
         font-family: consolas, monospace;
+      }
+      & pre {
+        line-height: 2.2;
+        font-size: 14px;
       }
       & figcaption {
         margin-top: 1rem;
@@ -113,8 +165,14 @@
       }
       & .gutter {
         width: 1rem;
-        padding-right: 1rem;
-        color: var(--gray);
+        padding-right: 16px;
+        color: #d0d0d0;
+      }
+      & .code {
+        color: var(--medium-gray);
+        & pre {
+          margin-right: 20px;
+        }
       }
     }
 
@@ -129,11 +187,8 @@
       }
       & tbody tr {
         & td {
-          border-bottom: 1px solid var(--semi-white);
+          border: 0;
           padding: 0.25rem 0;
-        }
-        &:last-child td {
-          border-color: var(--gray);
         }
       }
     }
@@ -163,28 +218,39 @@
     }
 
     & ul, & ol {
+      margin: 10px 0;
       list-style: none;
-      & li {
+      & > li {
         position: relative;
+        margin: 6px 0;
+        line-height: 1.8;
         &:before {
           position: absolute;
         }
       }
+      & ul, & ol {
+        margin-bottom: 10px 0;
+      }
     }
 
     & ul {
-      padding-left: 1.5rem;
+      padding-left: 13px;
+      margin-left: 22px;
       & li:before {
         content: '•';
-        left: -1.5rem;
+        left: -13px;
+      }
+      & ul {
+        margin-top: 5px;
+        margin-left: 8px;
       }
     }
 
     & ol {
-      padding-left: 2rem;
+      padding-left: 35px;
       counter-reset: ol-count;
       & li:before {
-        left: -2rem;
+        left: -28px;
         display: inline-block;
         content: counter(ol-count) '.';
         counter-increment: ol-count;
@@ -211,24 +277,17 @@
     }
 
     & hr {
-      position: relative;
-      border: 0;
-      margin: 0;
-      height: 4rem;
-      &:after {
-        content: '• • •';
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        margin-top: -0.75rem;
-        margin-left: -1.5rem;
+      margin: 25px 0 32px;
+      & + h1,
+      & + h2,
+      & + h3,
+      & + h4,
+      & + h5,
+      & + h6 {
+        margin-top: 0;
       }
     }
   }
-}
-
-.article__title {
-  line-height: 1.2em;
 }
 
 .article__image {
@@ -243,8 +302,8 @@
 }
 
 .article__meta {
-  font-size: 14px;
-  color: var(--gray);
+  margin-top: 15px;
+  font-size: 16px;
   overflow: hidden;
   width: 100%;
 }
@@ -289,7 +348,7 @@
   padding: 0 0.5rem;
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.27s ease;
 
   &:hover {
     background-color: var(--lighted-sky);
@@ -388,7 +447,7 @@
   right: 0;
   left: 0;
   bottom: 0;
-  transition: transform 0.3s ease;
+  transition: transform 0.27s ease;
 }
 
 .related-posts__item__overlay {

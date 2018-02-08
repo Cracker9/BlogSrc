@@ -18,7 +18,7 @@
   background-color: #fff;
   z-index: 2;
   border-top: 1px solid var(--lighted-gray);
-  transition: transform 0.3s ease;
+  transition: transform 0.27s ease;
 }
 
 .sharer--hide {
@@ -44,7 +44,7 @@
   line-height: var(--sharer-height);
   color: var(--gray);
   cursor: pointer;
-  transition: color 0.3s ease;
+  transition: color 0.27s ease;
 }
 
 #sharer-facebook:hover {

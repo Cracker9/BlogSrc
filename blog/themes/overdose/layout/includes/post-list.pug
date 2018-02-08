@@ -41,16 +41,7 @@ section.post-list
   each post in getPostList()
     article.post-list__item
       // title / 본문 내용/
-      .post-list__item__col-2
-        .post-list__item__meta
-          if post.categories && post.categories.length
-            each category, index in post.categories.data
-              a.post-list__item__meta__link(
-                href=url_for(category.path)
-              )= category.name
-              unless index === post.categories.data.length - 1 
-                span.post-list__item__meta__label >
-            
+      .post-list__item__meta
         h3.post-list__item__title
           if post.link
             a(
@@ -61,9 +52,9 @@ section.post-list
           else
             a(
               href=url_for(post.path)
-              title=post.title || 'Untitled'
-            )= post.title || 'Untitled'
-        p.post-list__item__description #{post.date.format(config.date_format)} . #{post.author}
+              title!=post.title || 'Untitled'
+            )!= post.title || 'Untitled'
+        p.post-list__item__description #{post.date.format(config.date_format)} • #{post.author || config.author}
 
 // <% if(item.author) { %>
             Posted by <%- item.author %> on

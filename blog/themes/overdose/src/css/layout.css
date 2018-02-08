@@ -15,9 +15,21 @@
   @media (--desktop) {
     margin-top: var(--menu-height);
   }
+  &.main {
+    margin-top: 320px;
+    @media (--desktop) {
+      margin-top: 320px;
+    }
+  }
 }
 
 .content-inner {
   width: 100%;
   padding: var(--base-margin) 0;
+}
+
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
 }

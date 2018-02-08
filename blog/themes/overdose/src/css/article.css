@@ -55,7 +55,11 @@
   }
 
   & .article__contents {
-    margin-top: 56px;
+    margin-top: 48px;
+
+    @media (--desktop) {
+      margin-top: 56px;
+    }
 
     & h1:first-child,
     & h2:first-child,

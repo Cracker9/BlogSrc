@@ -16,7 +16,7 @@
     margin-top: var(--menu-height);
   }
   &.main {
-    margin-top: 320px;
+    margin-top: 240px;
     @media (--desktop) {
       margin-top: 320px;
     }
@@ -25,7 +25,10 @@
 
 .content-inner {
   width: 100%;
-  padding: var(--base-margin) 0;
+  padding: 28px 0;
+  @media (--desktop) {
+    padding: var(--base-margin) 0;
+  }
 }
 
 .clearfix:after {

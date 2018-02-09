@@ -12,7 +12,7 @@ article#article.article(itemscope itemtype="https://schema.org/BlogPosting")
     time.article__meta__time(
       datetime=date_xml(page.date)
       itemprop="datePublished"
-    )= page.date.format(config.date_format) + ' • ' + page.author
+    )= page.date.format(config.date_format) + ' • ' + (page.author || config.author)
   unless (page.banner && page.banner.url) || (page.photos && page.photos.length)
 
   .article__contents

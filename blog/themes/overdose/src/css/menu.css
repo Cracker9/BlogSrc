@@ -19,26 +19,6 @@
   z-index: 3;
   box-sizing: border-box;
   transition: transform 0.27s ease;
-  &.main {
-    height: 240px;
-    background: no-repeat center url("/images/home-bg-m.jpg") #0051a4;
-    background-size: cover;
-    @media (--desktop) {
-      height: 320px;
-      background: no-repeat center url("/images/home-bg.jpg") #0051a4;
-    }
-    & .menu__item {
-      &.menu__item--active .menu__item__link {
-        color: var(--primary-sky);
-      }
-      & .menu__item__link {
-        color: rgba(255, 255, 255, 0.7);
-        &:hover {
-          color: rgba(255, 255, 255, 1);
-        }
-      }
-    }
-  }
 }
 
 .menu--hide {

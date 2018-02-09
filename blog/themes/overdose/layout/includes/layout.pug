@@ -24,6 +24,7 @@ html(lang=config.language)
     .page-background
     .content-container
       .content-outer(class=pageType() ? 'main' : '')
+        .content-hero
         .content-inner(itemscope itemtype="https://schema.org/Blog")
           if body
             div!= body

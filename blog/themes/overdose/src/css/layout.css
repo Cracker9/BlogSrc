@@ -16,11 +16,33 @@
     margin-top: var(--menu-height);
   }
   &.main {
-    margin-top: 240px;
-    @media (--desktop) {
-      margin-top: 320px;
+    margin-top: 0;
+    & > .content-hero {
+      display: block;
+      height: 240px;
+      background: no-repeat center url("/images/home-bg-m.jpg") #0051a4;
+      background-size: cover;
+      @media (--desktop) {
+        height: 320px;
+        background: no-repeat center url("/images/home-bg.jpg") #0051a4;
+      }
+      & .menu__item {
+        &.menu__item--active .menu__item__link {
+          color: var(--primary-sky);
+        }
+        & .menu__item__link {
+          color: rgba(255, 255, 255, 0.7);
+          &:hover {
+            color: rgba(255, 255, 255, 1);
+          }
+        }
+      }
     }
   }
+}
+
+.content-hero {
+  display: none;
 }
 
 .content-inner {

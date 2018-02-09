@@ -4,10 +4,9 @@
 //-     var _current = current.replace(/\/?index.html/, '') || "page";
 //-     return _target === _current;
 //-   }
-
-nav#menu.menu(class=pageType() ? 'main' : '')
-  .menu-inner.clearfix
-    if !pageType()
+if !pageType()
+  #menu.menu(class=pageType() ? 'main' : '')
+    .menu-inner.clearfix
       .menu__left-area.ater
         .menu__item
           a.menu__item__link.menu__item__link--brand(
@@ -17,7 +16,7 @@ nav#menu.menu(class=pageType() ? 'main' : '')
             img.menu__item__link--brand__image(
               src=theme.logo
               alt=config.title)
-    //- .menu__right-area
+    //- nav.menu__right-area
     //-   each url, label in theme.menu
     //-     .menu__item(class=equalPath(url, page.path.split("/")[0]) ? 'menu__item--active' : '')
     //-       a.menu__item__link(href=url)= label

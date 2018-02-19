@@ -82,7 +82,7 @@ View 로 그리든.. Drawable 로 하든.. 하지만 일반적으로 사용하�
 
 가장 일반적인 방법이다. 
 
-~~~
+~~~ html
 <View
    android:layout_width="match_parent"
    android:layout_height="2dp"
@@ -105,7 +105,7 @@ Linear Layout 내부에 있는 동일한 색상에 동일한 길이인 여러 �
 우리는 구분선을 그리기 위해 Rectangle 을 사용할 것이다. 중심(빨간색)에서 점점 양쪽(검정색)으로 퍼져 나가는 그라데이션을 그릴 것이다. 일단 Drawable 폴더에 gradient.xml 을 생성한다.
 
 gradient.xml
-~~~
+~~~ html
 <?xml version="1.0" encoding="utf-8"?>
 <shape
    xmlns:android="http://schemas.android.com/apk/res/android"
@@ -120,7 +120,7 @@ gradient.xml
 
 그리고 그린 구분선을 activity_main.xml 에서 View 로 사용한다.
 
-~~~
+~~~ html
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout
    xmlns:android="http://schemas.android.com/apk/res/android"

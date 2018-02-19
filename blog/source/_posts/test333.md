@@ -44,7 +44,7 @@ This is an H1
 
 * 작은제목: 문서 부제목
 
-```
+``` markdown
 This is an H2
 -------------
 ```
@@ -53,7 +53,7 @@ This is an H2
 
 * 글머리: 1~6까지만 지원
 
-```
+``` markdown
 # This is a H1
 ## This is a H2
 ### This is a H3
@@ -71,7 +71,7 @@ This is an H2
 
 ## 2.2. BlockQuote
 이메일에서 사용하는 ```>``` 블럭인용문자를 이용한다.
-```
+``` markdown
 > This is a blockqute.
 ```
 > This is a first blockqute.
@@ -88,7 +88,7 @@ This is an H2
 ## 2.3. 목록
 ### 순서있는 목록(번호)
 순서있는 목록은 숫자와 점을 사용한다.
-```
+``` markdown
 1. 첫번째
 2. 두번째
 3. 세번째
@@ -98,7 +98,7 @@ This is an H2
 3. 세번째
 
 **현재까지는 어떤 번호를 입력해도 순서는 내림차순으로 정의된다.**
-```
+``` markdown
 1. 첫번째
 3. 세번째
 2. 두번째
@@ -110,7 +110,7 @@ This is an H2
 딱히 개선될 것 같지는 않다. 존 그루버가 신경안쓰고 있다고...
 
 ### 순서없는 목록(글머리 기호)
-```
+``` markdown
 * 빨강
   * 녹색
     * 파랑
@@ -146,7 +146,7 @@ This is an H2
 순서있는 목록은 숫자와 점을 사용한다.
 ```<pre><code></code></pre>```
 4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 변환되기 시작하여 들여쓰지 않은 행을 만날때까지 변환이 계속된다.
-```
+``` markdown
 This is a normal paragraph:
 
     This is a code block.
@@ -160,7 +160,7 @@ end code block.
 
 ## 2.5. 수평선```<hr/>```
 아래 줄은 모두 수평선을 만든다. 마크다운 문서를 미리보기로 출력할 때 *페이지 나누기* 용도로 많이 사용한다.
-```
+``` markdown
 * * *
 ***
 *****
@@ -172,7 +172,7 @@ end code block.
 ## 2.6. 링크
 * 참조링크
 
-```
+``` markdown
 [link keyword][id]
 [id]: URL "Optional Title here"
 
@@ -185,14 +185,14 @@ Link: [Google][googlelink]
 
 * 인라인 링크
 
-```
+``` markdown
 syntax: [Title](link)
 ```
 Link: [Google](https://google.com, "google link")
 
 * 자동연결
 
-```
+``` markdown
 <http://example.com/>
 <address@example.com>
 ```
@@ -201,7 +201,7 @@ Link: [Google](https://google.com, "google link")
 <address@example.com>
 
 ## 2.7. 강조
-```
+``` markdown
 *single asterisks*
 _single underscores_
 **double asterisks**
@@ -216,7 +216,8 @@ __double underscores__
 ++underline++
 ~~cancelline~~
 
-```html
+html
+``` html
 <!doctype html>
 <html lang="en">
 <head>
@@ -233,7 +234,8 @@ __double underscores__
 </html>
 ```
 
-```css
+css
+``` css
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   body:first-of-type pre::after {
     content: 'highlight: ' attr(class);
@@ -258,7 +260,8 @@ li[lang=ru] {
 }
 ```
 
-```javascript
+javascript
+``` javascript
 function $initHighlight(block, flags) {
   try {
     if (block.className.search(/\bno\-highlight\b/) != -1)
@@ -278,8 +281,101 @@ const tuple = [true, 1];
 bool = 1, 다른색; // Error! 
 ```
 
-## 2.8. 이미지
+Ruby
+``` Ruby
+class A < B; def self.create(object = User) object end end
+class Zebra; def inspect; "X#{2 + self.object_id}" end end
+
+module ABC::DEF
+  include Comparable
+
+  # @param test
+  # @return [String] nothing
+  def foo(test)
+    Thread.new do |blockvar|
+      ABC::DEF.reverse(:a_symbol, :'a symbol' + 'test' + test)
+    end.join
+  end
+
+  def [](index) self[index] end
+  def ==(other) other == self end
+end
+
+anIdentifier = an_identifier
+Constant = 1
 ```
+
+Python
+``` Python
+@requires_authorization
+def somefunc(param1='', param2=0):
+    r'''A docstring'''
+    if param1 > param2: # interesting
+        print 'Gre\'ater'
+    return (param2 - param1 + 1) or None
+
+class SomeClass:
+    pass
+```
+
+Perl
+``` Perl
+#!/usr/bin/perl
+
+use strict;
+use integer;
+
+# loads object
+sub load
+{
+  my $flds = $c->db_load($id,@_) || do {
+    Carp::carp "Can`t load (class: $c, id: $id): '$!'"; return undef
+  };
+  my $o = $c->_perl_new();
+  $id12 = $id / 24 / 3600;
+  $o->{'ID'} = $id12 + 123;
+  #$o->{'SHCUT'} = $flds->{'SHCUT'};
+  my $p = $o->props;
+  my $vt;
+  $string =~ m/^sought_text$/;
+  $items = split //, 'abc';
+  for my $key (keys %$p)
+  {
+    if(${$vt.'::property'}) {
+      $o->{$key . '_real'} = $flds->{$key};
+      tie $o->{$key}, 'CMSBuilder::Property', $o, $key;
+    }
+  }
+  $o->save if delete $o->{'_save_after_load'};
+  return $o;
+}
+
+=head1 NAME
+POD till the end of file
+```
+
+Java
+``` Java
+public class Demo {
+  private static final String CONSTANT = "String";
+  private Object o;
+  /**
+   * Creates a new demo.
+   * @param o The object to demonstrate.
+   */
+  public Demo(Object o) {
+    this.o = o;
+    String s = CONSTANT;
+    int i = 1;
+  }
+  public static void main(String[] args) {
+    Demo demo = new Demo();
+  }
+}
+```
+
+## 2.8. 이미지
+``` markdown
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
 ```

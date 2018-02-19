@@ -24,7 +24,7 @@ author: Jehoon.park
 ### 자바 직렬화 조건
 자바 기본(primitive) 타입과 java.io.Serializable 인터페이스를 상속받은 객체는 직렬화 할 수 있는 기본 조건을 가집니다.
 
-```
+``` java
 package woowahan.blog.exam1;
     /**
     * 직렬 화할 회원 클래스

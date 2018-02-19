@@ -350,7 +350,7 @@
   border-radius: 2px;
   font-size: 0.875rem;
   display: inline-block;
-  padding: 0 0.5rem;
+  padding: 0.3rem 0.5rem;
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;
   transition: background-color 0.27s ease;
@@ -402,14 +402,18 @@
 }
 
 .related-posts {
+  position: relative;
   text-align: center;
   overflow: hidden;
   width: 100%;
   max-width: 72rem;
+  max-width: var(--content-width-article);
+  padding: 0 1rem;
+  margin: auto;
   box-sizing: border-box;
   @media (--desktop) {
-    padding: 0 0.5rem;
     margin: 1rem auto;
+    padding: 0;
     & h3 {
       margin-bottom: 0;
     }
@@ -418,14 +422,17 @@
 
 .related-posts__item__wrapper {
   width: 100%;
-  height: 15rem;
+  height: 12rem;
   text-align: center;
   box-sizing: border-box;
   @media (--desktop) {
     display: inline-block;
     width: 33.33%;
-    padding: 0 0.5rem;
+    padding-right: 00.5rem;
     margin-top: 0.75rem;
+    &:last-child {
+      padding-right: 0;
+    }
   }
 }
 

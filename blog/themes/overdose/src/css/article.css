@@ -52,6 +52,14 @@
     padding-top: 2px;
     line-height: 1.21em;
     margin: 0;
+    height: calc(2.42em - 1px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: left;
+    word-wrap: break-word;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
   }
 
   & .article__contents {
@@ -137,6 +145,7 @@
     & figure.highlight {
       padding: 0 28px 0 24px;
       margin: 11px 0;
+      overflow: auto;
 
       & * {
         font-family: consolas, monospace;
@@ -349,7 +358,7 @@
   border-radius: 2px;
   font-size: 0.875rem;
   display: inline-block;
-  padding: 0 0.5rem;
+  padding: 0.3rem 0.5rem;
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;
   transition: background-color 0.27s ease;
@@ -401,14 +410,18 @@
 }
 
 .related-posts {
+  position: relative;
   text-align: center;
   overflow: hidden;
   width: 100%;
   max-width: 72rem;
+  max-width: var(--content-width-article);
+  padding: 0 1rem;
+  margin: auto;
   box-sizing: border-box;
   @media (--desktop) {
-    padding: 0 0.5rem;
     margin: 1rem auto;
+    padding: 0;
     & h3 {
       margin-bottom: 0;
     }
@@ -417,14 +430,17 @@
 
 .related-posts__item__wrapper {
   width: 100%;
-  height: 15rem;
+  height: 12rem;
   text-align: center;
   box-sizing: border-box;
   @media (--desktop) {
     display: inline-block;
     width: 33.33%;
-    padding: 0 0.5rem;
+    padding-right: 00.5rem;
     margin-top: 0.75rem;
+    &:last-child {
+      padding-right: 0;
+    }
   }
 }
 

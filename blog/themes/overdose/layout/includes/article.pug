@@ -18,11 +18,11 @@ article#article.article(itemscope itemtype="https://schema.org/BlogPosting")
   .article__contents
     != page.content
 
-  //- if page.tags && page.tags.length
-  //-   .article__tags
-  //-    - page.tags.each(function(tag) {
-  //-        a.article__tags__item(href=url_for(tag.path))= tag.name
-  //-    - })
+  if page.tags && page.tags.length
+    .article__tags
+     - page.tags.each(function(tag) {
+         a.article__tags__item(href=url_for(tag.path))= tag.name
+     - })
 
   //- - var profileImageSrc = theme.profile.image || gravatar(theme.profile.gravatar || '');
   //- .article__author(

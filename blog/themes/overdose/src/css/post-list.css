@@ -55,12 +55,15 @@
   margin: 19px 0;
   font-size: 30px;
   font-weight: 900;
-
-  @media (--mobile) {
-    text-overflow: ellipsis;
-    overflow: hidden;
-    white-space: nowrap;
-  }
+  line-height: 1.15;
+  height: calc(2.3em - 1px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  word-wrap: break-word;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
 
   & a {
     cursor: pointer;

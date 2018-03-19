@@ -32,7 +32,7 @@ dynamic_menu: false
 
 # Highlight theme
 ## You can also use various themes in `css/highlights`
-highlight: dracula
+highlight: tomorrow-light
 
 # Related posts
 ## If you don't want `related posts` feature, you should specify the value as 0.

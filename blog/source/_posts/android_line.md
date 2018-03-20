@@ -1,5 +1,5 @@
 ---
-title: 안드로이드 앱 개발 , 구분선 그리기의 모든 것
+title: 구분선 그리기의 모든 것
 date: 2018-02-13
 tags: 
 - Android
@@ -12,7 +12,7 @@ author: Cracker9
 
 
 
-![대표이미지](/Users/YoonMyoungJune/Documents/Cracker9/BlogSrc/blog/source/img/Android_Line/대표이미지.png)
+![대표이미지](http://cracker9.github.io/img/Android_Line/title.png)
 
 
 
@@ -23,7 +23,7 @@ author: Cracker9
 
 
 
-##해상도, 화면크기.. 그리고 DPI
+## 해상도, 화면크기.. 그리고 DPI
 아래는 인터넷에서 “갤럭시 S8 스펙” 하고 검색해서 찾은 삼성 갤럭시 S8 의 디스플레이 스펙이다. 
 
 5.77인치 QHD super AMOLED / 570ppi 
@@ -68,7 +68,7 @@ xxxhdpi (초초초고밀도) |  ~640dpi
 
 
 
-##다양한 선 그리는 방법들
+## 다양한 선 그리는 방법들
 
 구분선을 그리는 방법은 사실 개발자 마음이다. 
 
@@ -76,7 +76,7 @@ View 로 그리든.. Drawable 로 하든.. 하지만 일반적으로 사용하�
 
 
 
-###일반적인 구분선 그리기
+### 일반적인 구분선 그리기
 
 ####  (1)  View 로 그리기
 
@@ -179,7 +179,7 @@ gradient.xml
 
 
 
-여기서 주의할 점은 첫번째 뷰와 두번째 뷰의 layout_height 이다. 첫번째는 1dp, 두번째는 1px 로 했다. 어떤 차이가 생기는지 확인 해 보자.![img0](/Users/YoonMyoungJune/Documents/Cracker9/BlogSrc/blog/source/img/Android_Line/img0.png)
+여기서 주의할 점은 첫번째 뷰와 두번째 뷰의 layout_height 이다. 첫번째는 1dp, 두번째는 1px 로 했다. 어떤 차이가 생기는지 확인 해 보자.![img0](http://cracker9.github.io/img/Android_Line/img0.png)
 
 
 
@@ -189,7 +189,7 @@ gradient.xml
 
 
 
-##실전 활용의 예
+## 실전 활용의 예
 
 
 
@@ -199,19 +199,19 @@ gradient.xml
 
 #### 레이아웃과 레이아웃 사이에 구분선이 들어가는 예	
 
-![img1](/Users/YoonMyoungJune/Documents/Cracker9/BlogSrc/blog/source/img/Android_Line/img1.png)
+![img1](http://cracker9.github.io/img/Android_Line/img1.png)
 
 
 
-####Linear Layout 으로 묶고 버튼과 버튼 사이의 divider 를 넣은 예
+#### Linear Layout 으로 묶고 버튼과 버튼 사이의 divider 를 넣은 예
 
 
 
-![img2](/Users/YoonMyoungJune/Documents/Cracker9/BlogSrc/blog/source/img/Android_Line/img2.png)
+![img2](http://cracker9.github.io/img/Android_Line/img2.png)
 
 
 
-##1px 과 1dp 어떤 것이 정답일까?
+## 1px 과 1dp 어떤 것이 정답일까?
 
 
 

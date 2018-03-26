@@ -1,5 +1,14 @@
 - var truncOptions = { length: 150, separator: ' ' };
 -
+  var page_current_url = page.current_url.split('/');
+  page.now_page_current_url = '';
+  for (var i = 1; i < page_current_url.length -1; i++) {
+    page.now_page_current_url += page_current_url[i];
+    if (i < page_current_url.length - 2) {
+      page.now_page_current_url += " > "
+    }
+  }
+
   function getPostList() {
     var perPage = page.per_page || config.per_page;
     var skips = perPage * (page.current - 1);
@@ -35,7 +44,7 @@ section.post-list
       else if is_tag()
         h2 Tag: #{page.tag}
       else if is_category()
-        h2 Category: #{page.category}
+        h2 #{page.now_page_current_url}
     hr
       
   each post in getPostList()

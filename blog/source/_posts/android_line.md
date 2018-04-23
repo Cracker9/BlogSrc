@@ -1,13 +1,12 @@
 ---
 title: 구분선 그리기의 모든 것
-date: 2018-02-13
+date: 2018-03-16
 tags: 
 - Android
 - Line
 categories:
-- tech
-- android
-author: Cracker9
+- Develop
+author: 윤명준
 ---
 
 

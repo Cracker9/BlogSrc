@@ -25,6 +25,11 @@
   padding: $base-margin 0;
 }
 
+.content-center {
+  display: block;
+  margin: 0 auto;
+}
+
 #footer{
   display:table-row;
   width:100%;

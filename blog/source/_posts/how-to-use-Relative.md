@@ -107,6 +107,9 @@ Cracker9 툴은 이를 코드로 작성하지 않고 마우스로 연결하여 �
 <span style="color:#4d4d4d">그럼, 그 외에 문의사항은 [hello@cracker9.io](helloo@cracker9.io) 로 메일주세요!
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
 
+Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
+Cracker9 으로 Relative Layout 을 구성 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/2444fd16-350a-4075-bb3d-a7ab7ee2f5ff/) ( 패스워드 : 1234 )
+
 ***
 
    ▶ Homepage: http://cracker9.io

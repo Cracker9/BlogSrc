@@ -60,7 +60,11 @@ author: Cracker9
 [![constraint_W09](/img/HowToUseConstraintWeight/v05.jpg?raw=true)](https://youtu.be/eVKLorgs12A)
 
 <span style="color:#4d4d4d">그럼, 그 외에 문의사항은 [hello@cracker9.io](helloo@cracker9.io) 로 메일주세요!
-크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
+크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다. <br><br>
+
+Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
+Cracker9 으로 Constraint Layout 의 Weight 사용 해보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/1477e646-91ae-472d-a281-fef30e074d91/) ( 패스워드 : 1234 )
+
 
 ***
 

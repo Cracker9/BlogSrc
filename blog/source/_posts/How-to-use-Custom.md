@@ -74,6 +74,9 @@ Custom Layout으로 영역을 생성하는 방법은 2가지가 있는데, 하�
 <span style="color:#4d4d4d">그럼, 그 외에 문의사항은 [hello@cracker9.io](helloo@cracker9.io) 로 메일주세요!
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
 
+Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
+Cracker9 으로 Custom Layout 를 만들어 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/134c84b2-994c-41be-ba4e-cde6adf52fbd/) ( 패스워드 : 1234 )
+
 ***
 
    ▶ Homepage: http://cracker9.io

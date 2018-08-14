@@ -1,12 +1,13 @@
 ---
 title: 기능설명 - Cracker9 주요기능
 date: 2018-06-25 11:00:00
-tags:
+tags: 
 - Android
+- Layout
 - Cracker9
 categories:
-- Cracker9 Story
-author: 이종성
+- Tutorial
+author: Cracker9
 ---
 <span style="color:#4d4d4d">Cracker9은 디자이너와 개발자 간의 연결을 도와줍니다.
 디자인 결과물의 정확한 스타일과 Assets 등의 정보를 전달해주며, 전달받은 정보를 바탕으로 안드로이드 Layout Code를 빠르고 쉽게 추출할 수 있는 솔루션입니다.
@@ -147,3 +148,13 @@ WIN : Control + +/-
   margin: 0 !important;
 }
 </style>
+
+
+***
+
+   ▶ Homepage: http://cracker9.io
+   ▶ Blog: https://blog.cracker9.io
+   ▶ Twitter: https://twitter.com/HelloCracker9
+   ▶ Facebook: https://www.facebook.com/cracker9.io
+
+***

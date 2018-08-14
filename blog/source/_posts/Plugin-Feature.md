@@ -1,14 +1,15 @@
 ---
 title: 기능설명 - Sketch Plug-in
 date: 2018-06-25 14:00:00
-tags:
-- Android
+tags: 
+- Sketch
+- Plugin
 - Cracker9
-- Cracker9_Plugin
 categories:
-- Cracker9 Story
-author: 이종성
+- Tutorial
+author: Cracker9
 ---
+
 <span style="color:#4d4d4d">Cracker9은 Sketch 플러그인을 통해 디자인한 작업물을 Export 합니다.
 
 ### Get Started
@@ -54,3 +55,12 @@ Export할 Resolution을 선택 합니다.
 <span style="color:#4d4d4d">**Link Password**
 Link의 보안을 위해 Link Password를 설정합니다.
 ![P_Feature05](/img/Plugin_Feature/05.jpg?raw=true)
+
+***
+
+   ▶ Homepage: http://cracker9.io
+   ▶ Blog: https://blog.cracker9.io
+   ▶ Twitter: https://twitter.com/HelloCracker9
+   ▶ Facebook: https://www.facebook.com/cracker9.io
+
+***

@@ -216,3 +216,11 @@ gradient.xml
 
 다양한 해상도를 지원해야 하는 앱(요새는 다 그래야 하지 않나?)에서는 dp 를 사용하는게 적합 해 보인다. px 로 하게 되면 해상도가 높은 디바이스에서는 구분선이 안보이는 경우도 있을 수 있다. px 로 하는게 적합한 상황도 있다.1dp 보다 더 얇은 구분선을 그리고 싶을 때!앱 개발 할 때 많은 도움이 되었으면 하는 바람이다.
 
+***
+
+   ▶ Homepage: http://cracker9.io
+   ▶ Blog: https://blog.cracker9.io
+   ▶ Twitter: https://twitter.com/HelloCracker9
+   ▶ Facebook: https://www.facebook.com/cracker9.io
+
+***

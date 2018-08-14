@@ -1,7 +1,13 @@
 ---
 title: Tutorial - Android view Center & Constraint Layout Bias 사용법
 date: 2018-06-28 14:00:00
-tags:
+tags: 
+- Android
+- Layout
+- Cracker9
+categories:
+- Tutorial
+author: Cracker9
 ---
 <span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.
 Cracker9 사용은 익숙해지셨나요? 오늘은 Center와 Bias기능을 사용하여 코드를 생성하는 방법에 대해 알려드리도록 하겠습니다.
@@ -88,6 +94,15 @@ Cracker9에서는 어떻게 Center 코드를 생성할수 있는지 그리고 �
 
 <span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.
 [![Center_16](/img/HowToUseCenterbias/v07.jpg?raw=true)](https://youtu.be/-9CXQIND5zw)
-***
+
 <span style="color:#4d4d4d">그럼, 그 외에 문의사항은 [hello@cracker9.io](helloo@cracker9.io) 로 메일주세요!
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
+
+***
+
+   ▶ Homepage: http://cracker9.io
+   ▶ Blog: https://blog.cracker9.io
+   ▶ Twitter: https://twitter.com/HelloCracker9
+   ▶ Facebook: https://www.facebook.com/cracker9.io
+
+***

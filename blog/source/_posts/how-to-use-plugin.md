@@ -1,13 +1,13 @@
 ---
 title: Tutorial - Sketch Plugin 사용법
 date: 2018-06-25 18:00:00
-tags:
-- Android
+tags: 
+- Sketch
+- Plugin
 - Cracker9
-- Cracker9_Plugin
 categories:
-- Cracker9 Story
-author: 구소희
+- Tutorial
+author: Cracker9
 ---
 <span style="color:#4d4d4d">
 안녕하세요. 크래커나인 입니다.
@@ -67,6 +67,15 @@ Cracker9 App을 사용하기 위해서는 먼저 Sketch로 디자인된 Screen�
 
 <span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.
 ![이미지 텍스트](스크린샷 이미지)](유투브링크)
-***
+
 <span style="color:#4d4d4d">그럼, 그 외에 문의사항은 [hello@cracker9.io](helloo@cracker9.io) 로 메일주세요!
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
+
+***
+
+   ▶ Homepage: http://cracker9.io
+   ▶ Blog: https://blog.cracker9.io
+   ▶ Twitter: https://twitter.com/HelloCracker9
+   ▶ Facebook: https://www.facebook.com/cracker9.io
+
+***

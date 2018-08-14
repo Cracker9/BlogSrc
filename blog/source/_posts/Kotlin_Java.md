@@ -52,9 +52,9 @@ author: 구소희
 그럼에도 불구하고 업계에서는 코틀린이 18년 12월쯤이면 자바만큼 사용량이 늘어날 것으로 전망하고 있다.
 
 직접 사용해보고 적으면 좋겠지만, 개발 능력이 안되므로 좀 더 자세한 사용 후기는 다른 분들의 글들을 첨부하기로 한다.
-* https://medium.com/@lazysoul/android-kotlin%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EC%A0%90-7756c46a2b1e
-* https://gist.github.com/Hazealign/1bbc586ded1649a8f08f
-* https://thdev.tech/kotlin/android/2018/01/02/Kotlin-Learning-and-Introduction.html
+* [Kotlin으로 Android 를 개발하면서 느낀점 및 장점 소개](https://medium.com/@lazysoul/android-kotlin%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EC%A0%90-7756c46a2b1e/)
+* [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f/)
+* [Kotlin-회사에서는 어떻게 도입하고? 학습해 볼 수 있을까?](https://thdev.tech/kotlin/android/2018/01/02/Kotlin-Learning-and-Introduction.html)
 
 
 ## 자바는 어떻게 될까요?
@@ -73,3 +73,12 @@ author: 구소희
 ## 자료 출처
 * http://www.itworld.co.kr/news/107046
 * http://mindols.tistory.com/93
+
+***
+
+   ▶ Homepage: http://cracker9.io
+   ▶ Blog: https://blog.cracker9.io
+   ▶ Twitter: https://twitter.com/HelloCracker9
+   ▶ Facebook: https://www.facebook.com/cracker9.io
+
+***

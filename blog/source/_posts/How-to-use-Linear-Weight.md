@@ -1,12 +1,13 @@
 ---
 title: Tutorial - Linear Layout의 Weight 사용법
 date: 2018-06-26 16:40:06
-tags:
+tags: 
 - Android
+- Layout
 - Cracker9
 categories:
-- Cracker9 Story
-author: 구소희
+- Tutorial
+author: Cracker9
 ---
 <span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.
 이번에는 Linear Layout에서 Weight 기능을 사용해보도록 하겠습니다.
@@ -53,6 +54,15 @@ Linear Layout은 반드시 부모 Layout을 선택 해야만 Weight를 입력할
 
 <span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.
 [![Linear_W09](/img/HowToUseLinear/v01.jpg?raw=true)](https://youtu.be/klHAy3X2xDw)
-***
+
 <span style="color:#4d4d4d">그럼, 그 외에 문의사항은 [hello@cracker9.io](helloo@cracker9.io) 로 메일주세요!
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
+
+***
+
+   ▶ Homepage: http://cracker9.io
+   ▶ Blog: https://blog.cracker9.io
+   ▶ Twitter: https://twitter.com/HelloCracker9
+   ▶ Facebook: https://www.facebook.com/cracker9.io
+
+***

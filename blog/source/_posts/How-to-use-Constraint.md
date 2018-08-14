@@ -1,12 +1,13 @@
 ---
 title: Tutorial - Constraint Layout 사용법
 date: 2018-06-27 12:00:00
-tags:
+tags: 
 - Android
+- Layout
 - Cracker9
 categories:
-- Cracker9 Story
-author: 구소희
+- Tutorial
+author: Cracker9
 ---
 <span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.
 오늘은 Constraint Layout을 사용하여 코드를 생성해보도록 하겠습니다.
@@ -79,6 +80,15 @@ author: 구소희
 ![Constraint13](/img/HowToUseConstraint/13.jpg?raw=true)
 #  
 
-***
+
 <span style="color:#4d4d4d">그럼, 그 외에 문의사항은 [hello@cracker9.io](helloo@cracker9.io) 로 메일주세요!
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
+
+***
+
+   ▶ Homepage: http://cracker9.io
+   ▶ Blog: https://blog.cracker9.io
+   ▶ Twitter: https://twitter.com/HelloCracker9
+   ▶ Facebook: https://www.facebook.com/cracker9.io
+
+***

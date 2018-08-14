@@ -1,12 +1,13 @@
 ---
 title: Tutorial - Custom Layout 사용법
 date: 2018-06-28 11:00:00
-tags:
+tags: 
 - Android
+- Layout
 - Cracker9
 categories:
-- Cracker9 Story
-author: 구소희
+- Tutorial
+author: Cracker9
 ---
 <span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.
 Custom Layout은 디자이너가 만들어 주지 못한 영역을 개발자가 임의의 영역을 직접 그려 레이아웃을 구성 할 수 있도록 만든 기능입니다. 사용하는 방법은 매우 간편해서 쉽게 사용할 수 있습니다.
@@ -69,6 +70,15 @@ Custom Layout으로 영역을 생성하는 방법은 2가지가 있는데, 하�
 
 <span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.
 [![Custom_09](/img/HowToUseCustom/v06.jpg?raw=true)](https://youtu.be/s0UQzVVRk_c)
-***
+
 <span style="color:#4d4d4d">그럼, 그 외에 문의사항은 [hello@cracker9.io](helloo@cracker9.io) 로 메일주세요!
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
+
+***
+
+   ▶ Homepage: http://cracker9.io
+   ▶ Blog: https://blog.cracker9.io
+   ▶ Twitter: https://twitter.com/HelloCracker9
+   ▶ Facebook: https://www.facebook.com/cracker9.io
+
+***

@@ -78,8 +78,10 @@ plugins:
 - hexo-generator-category
 - hexo-generator-index
 - hexo-generator-tag
-- hexo-generator-cname
 - hexo-renderer-jade
+- hexo-renderer-marked
+- hexo-renderer-stylus
+- hexo-generator-cname
 - hexo-deployer-git
 ## Themes: https://hexo.io/themes/
 theme: overdose

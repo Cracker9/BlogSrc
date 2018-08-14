@@ -86,3 +86,12 @@ Asset이름은 APP의 고유한 이름으로 결정할 수 있지만 다음 사�
 * 색상에 대해 rgb 값보다 16 진수 코드를 제공하십시오.
 * App에 대한 하나의 폴더를 만들고 그 폴더에 지원하는 모든 Dpi폴더를 만든 다음 모든 팀원은 해당 폴더에 컷아웃을 배치해야합니다.
   따라서 이미 누군가 add.png 파일을 만든 경우 add.png를 다시 만들려고하면 모두에게 대체 경고가 표시됩니다.
+
+***
+
+   ▶ Homepage: http://cracker9.io
+   ▶ Blog: https://blog.cracker9.io
+   ▶ Twitter: https://twitter.com/HelloCracker9
+   ▶ Facebook: https://www.facebook.com/cracker9.io
+
+***

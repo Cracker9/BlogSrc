@@ -1,0 +1,28 @@
+thead th {
+    visibility: hidden;
+}
+
+.interview-table {
+    /* border-collapse:separate !important;  */
+    /* border-spacing: 0 1em !important; */
+    border: 0 !important;
+    /* border-bottom: 1px solid #ededed !important;
+    border-top: 1px solid #ededed !important; */
+}
+.interview-table img {
+    /* margin-top: 0 !important;
+    margin-bottom: 0 !important; */
+    margin: 0 !important;
+    width: 100% !important;
+}
+
+.interview-table tr td:first-child {
+    vertical-align: top;
+    width: 40px !important;
+    padding: 0 0 50px 10px !important;
+}
+
+.interview-table tr td:last-child {
+    padding: 0 0 50px 10px !important;
+    line-height: 1.4;
+}

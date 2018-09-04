@@ -7,6 +7,12 @@ tags:
 - DPI
 - PX
 - DP
+- xxxhdpi
+- xxhdpi
+- xhdpi
+- hdpi
+- mdpi
+- ldpi
 categories:
 - Design
 author: 구소희

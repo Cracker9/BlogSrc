@@ -1,9 +1,20 @@
 ---
-title: 구분선 그리기의 모든 것
+title: 안드로이드 구분선 그리기의 모든 것
 date: 2018-03-16
 tags: 
 - Android
+- 안드로이드
+- 구분선
 - Line
+- resolution
+- dpi
+- xxxhdpi
+- xxhdpi
+- xhdpi
+- hdpi
+- mdpi
+- ldpi
+- 해상도
 categories:
 - Develop
 author: 윤명준

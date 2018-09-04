@@ -83,6 +83,10 @@ plugins:
 - hexo-renderer-stylus
 - hexo-generator-cname
 - hexo-deployer-git
+- hexo-generator-seo-friendly-sitemap
+- hexo-autonofollow
+- hexo-auto-canonical
+- hexo-generator-feed
 ## Themes: https://hexo.io/themes/
 theme: overdose
 
@@ -92,3 +96,13 @@ deploy:
   type: git
   repo: https://github.com/Cracker9/Cracker9.github.io.git
   branch: master
+
+sitemap:
+  path: sitemap.xml
+
+# rss feed auto generator
+feed:
+  type: atom
+  path: feed.xml
+  limit: 20
+  hub:

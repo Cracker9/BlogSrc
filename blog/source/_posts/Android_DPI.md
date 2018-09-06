@@ -73,6 +73,15 @@ xxhdpi 지원 단말일 경우, 5dp를 pixel로 계산하면
 디자이너는 가이드를 작성할 때 DP계산이 필요하고 개발자는 코드를 작성할 때 PX 계산이 필요하다.
 머릿속으로 계산이 빨리 되면 상관없겠지만, 일하면서 여간 쉬운 일은 아니다.(숫자에 약한 디자이너라면 더더욱...!) 그래서 계산이 힘든 사람들을 위해 작업 시간도 줄여주는 도구 몇가지 소개한다.
 
+-1. Android DP/PX converter 
+- 각 화면 밀도 별로 dp 를 pixel 로 pixel 을 dp 로 간단하게 확인 해 볼 수 있다.([바로가기](http://labs.rampinteractive.co.uk/android_dp_px_calculator/))
+
+-2. Pixplicity DP/PX converter 
+- 각 화면 밀도 별로 pixel, dp, sp, mm, inch, pt 로 계산 값을 확인 할 수 있다. ([바로가기](https://pixplicity.com/dp-px-converter))
+
+-3. Cracker9의 Unit Converter 
+- 디자이너가 작업하면서 쓰기 유용한 포토샵 플러그인이다. ([바로가기](https://www.adobeexchange.com/creativecloud.details.20685.html))
+
 ***
 
    ▶ Homepage: http://cracker9.io

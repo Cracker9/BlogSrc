@@ -99,7 +99,7 @@ Cracker9에서는 어떻게 Center 코드를 생성할수 있는지 그리고 �
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
 
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
-Cracker9 으로 가운데 정렬과 Constraint Bias 을 설정 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/a0da1926-a32f-4c1f-9bcf-7c3b69a6765c/) ( 패스워드 : 1234 )
+Cracker9 으로 가운데 정렬과 Constraint Bias 을 설정 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/b3e8a512-52e2-4122-8fe0-e527ccdbd291/)
 
 ***
 

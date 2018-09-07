@@ -59,7 +59,7 @@ Linear Layout은 반드시 부모 Layout을 선택 해야만 Weight를 입력할
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
 
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
-Cracker9 으로 Linear Layout의 Weight 를 주고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/d5f8eddf-70fb-4c6e-9c89-14d444ed5219/) ( 패스워드 : 1234 )
+Cracker9 으로 Linear Layout의 Weight 를 주고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/c7fb7d32-2165-431b-84a4-429a5ead8694/)
 
 ***
 

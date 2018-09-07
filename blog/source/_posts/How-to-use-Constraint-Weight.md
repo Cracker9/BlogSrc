@@ -63,7 +63,7 @@ author: Cracker9
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다. <br><br>
 
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
-Cracker9 으로 Constraint Layout 의 Weight 사용 해보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/1477e646-91ae-472d-a281-fef30e074d91/) ( 패스워드 : 1234 )
+Cracker9 으로 Constraint Layout 의 Weight 사용 해보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/ddd1966e-191d-4087-b81a-f272314d89df/)
 
 
 ***

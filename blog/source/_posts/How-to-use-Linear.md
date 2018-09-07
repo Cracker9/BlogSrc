@@ -109,7 +109,7 @@ Cracer9 App 상단에 보시면 Asset을 다운로드 할 수 있는 버튼을 �
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
 
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
-Cracker9 으로 Linear Layout 을 구성 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/59ea62a7-22fc-4f2c-8c22-2fc5b79ff556/) ( 패스워드 : 1234 )
+Cracker9 으로 Linear Layout 을 구성 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/9723f782-2a64-4294-a0c2-453f5fed88d9/)
 
 ***
 

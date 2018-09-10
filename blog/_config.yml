@@ -77,6 +77,7 @@ plugins:
 - hexo-generator-archive
 - hexo-generator-category
 - hexo-generator-index
+- hexo-generator-restful
 - hexo-generator-tag
 - hexo-renderer-jade
 - hexo-renderer-marked
@@ -106,3 +107,29 @@ feed:
   path: feed.xml
   limit: 20
   hub:
+
+# hexo-generator-restful
+restful:
+  site: false
+  posts_size: 3
+  posts_props:
+    title: true
+    slug: true
+    date: true
+    updated: false
+    comments: false
+    path: false
+    permalink: true
+    excerpt: false
+    cover: false
+    content: false
+    keywords: false
+    categories: false
+    tags: false
+  categories: false
+  use_category_slug: false
+  tags: false
+  use_tag_slug: false
+  post: false
+  pages: false
+

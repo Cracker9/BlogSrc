@@ -21,12 +21,10 @@ author: Cracker9
 네번째, Link 클릭해서 디자인패널과 뷰패널이 나오잖아요? 다시 뒤로가기 했을 때, 클릭했던 Link의 위치로 돌아갈 수 있게 해주세요. 지금은 무조건 Link 리스트의 최상단으로 이동이 되어서 보던 Link를 계속 찾아야하거든요.<br>
 다섯번째, Sketch 외의 Photoshop 같은 디자인 Tool에서도 Export 할 수 있도록 호환해주시면 감사하겠습니다.
 지금도 충분히 유용하지만 위의 개선사항이 좀더 보강되면 정말 국내 최강의 GUI가이드 프로그램이 될 거 같아요!</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/cracker9.png" width=40 height=40></td><td>Cracker9의 정식 버전으로 출시가 되면 사용할 의향이 있으신가요?</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png"  width=40 height=40></td><td> 네, 개발자와 협업하는 저로서는 꼭 사용해야 하는 Tool이나 마찬가지니깐요~ 코드까지 생성해주니, 아마 저보다 개발자들이 더 사용하고 싶어할 거 같은데요? ㅎㅎㅎ</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/cracker9.png" width=40 height=40> </td><td> 마지막으로 Cracker9에게 한 말씀해주세요~</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png"  width=40 height=40></td><td> 개발자와 디자이너가 효율적으로 편리하게 협업할 수 있도록 더 좋은 Tool로 발전하시길 기대할게요~ 개발자에게 UI코드까지 생성해주듯이 디자이너에게도 더 유용한 기능 많이 만들어주세요!</td></tr></table>
+_____
 
-***
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
-
-***
+_____

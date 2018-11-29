@@ -87,11 +87,10 @@ author: Cracker9
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
 Cracker9으로 Constraint Layout 을 구성 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/3a9d9693-fd18-46de-b704-10415b0286fd/)
 
-***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____

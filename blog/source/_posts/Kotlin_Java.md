@@ -74,11 +74,10 @@ author: 구소희
 * http://www.itworld.co.kr/news/107046
 * http://mindols.tistory.com/93
 
-***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____

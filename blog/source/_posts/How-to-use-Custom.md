@@ -77,11 +77,10 @@ Custom Layout으로 영역을 생성하는 방법은 2가지가 있는데, 하�
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
 Cracker9 으로 Custom Layout 를 만들어 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/090e6013-111a-4993-aec8-d9972d981a89/)
 
-***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____

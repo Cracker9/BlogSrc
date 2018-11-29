@@ -76,14 +76,13 @@ GUI 가이드라인은 디자인의 정보, 예를 들어 한 화면에 들어�
 
 많은 관심 부탁 드립니다. 감사합니다.
 
-***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____
 
 
 

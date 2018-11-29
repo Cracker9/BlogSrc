@@ -44,11 +44,10 @@ GUI 가이드 문서 상에는 화면상에 표현되는 모든 GUI 요소들의
 그 끝에 크래커가 일조하는 날이 오기를 바라며 글을 마친다.
 
 
-***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____

@@ -81,12 +81,11 @@ xxhdpi 지원 단말일 경우, 5dp를 pixel로 계산하면
 
 -3. Cracker9의 Unit Converter 
 - 디자이너가 작업하면서 쓰기 유용한 포토샵 플러그인이다. ([바로가기](https://www.adobeexchange.com/creativecloud.details.20685.html))
-
 ***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____

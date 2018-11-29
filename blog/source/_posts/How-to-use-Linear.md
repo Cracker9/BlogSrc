@@ -111,11 +111,10 @@ Cracer9 App 상단에 보시면 Asset을 다운로드 할 수 있는 버튼을 �
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
 Cracker9 으로 Linear Layout 을 구성 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/9723f782-2a64-4294-a0c2-453f5fed88d9/)
 
-***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____

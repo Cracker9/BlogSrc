@@ -91,11 +91,11 @@ https://romannurik.github.io/AndroidAssetStudio/index.html
 4)맨 오른쪽 내려받기 아이콘을 클릭 후 저장된 경로로 들어가 확인한다.
 ![5](https://github.com/sohee9/test_Doc/blob/master/Android%20Asset%20studio_%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB5.png?raw=true)
 
-***
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+_____
 
-***
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
+
+_____

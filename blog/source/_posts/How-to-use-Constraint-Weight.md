@@ -66,11 +66,10 @@ Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
 Cracker9 으로 Constraint Layout 의 Weight 사용 해보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/ddd1966e-191d-4087-b81a-f272314d89df/)
 
 
-***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____

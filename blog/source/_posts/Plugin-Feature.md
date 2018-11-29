@@ -56,11 +56,10 @@ Export할 Resolution을 선택 합니다.
 Link의 보안을 위해 Link Password를 설정합니다.
 ![P_Feature05](/img/Plugin_Feature/05.jpg?raw=true)
 
-***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____

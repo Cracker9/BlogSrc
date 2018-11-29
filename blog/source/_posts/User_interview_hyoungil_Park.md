@@ -27,11 +27,10 @@ View의 트리 구조 순서로 레이아웃 xml 코드가 생성되기 때문�
 레이아웃을 자동으로 생성해주는 Cracker9을 사용하면서 더 이상 노가다라는 생각을 하지 않게 되었습니다. 아직은 Beta 버전이라 부족한 부분이 보이지만, 개선될 것이라고 믿고 계속 사용할 거 같아요. 
 앞으로 발전하는 모습 기대하겠습니다 파이팅!</td></tr></table>
 
-***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____

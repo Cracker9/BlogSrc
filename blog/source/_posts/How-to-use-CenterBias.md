@@ -101,11 +101,10 @@ Cracker9에서는 어떻게 Center 코드를 생성할수 있는지 그리고 �
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
 Cracker9 으로 가운데 정렬과 Constraint Bias 을 설정 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/b3e8a512-52e2-4122-8fe0-e527ccdbd291/)
 
-***
+_____
 
-   ▶ Homepage: http://cracker9.io
-   ▶ Blog: https://blog.cracker9.io
-   ▶ Twitter: https://twitter.com/HelloCracker9
-   ▶ Facebook: https://www.facebook.com/cracker9.io
+* Homepage_ http://cracker9.io
+* Blog_ https://blog.cracker9.io
+* Facebook_ https://www.facebook.com/cracker9.io
 
-***
+_____

@@ -1,5 +1,5 @@
 ---
-title: 크래커나인 단축키 모음
+title: 유용한 크래커나인 단축키 모음 (Cracker9 Shortcut)
 date: 2018-09-05 16:58:00
 tags: 
 - Cracker9

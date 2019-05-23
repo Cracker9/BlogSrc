@@ -7,7 +7,7 @@ tags:
 - Asset
 categories:
 - Design
-author: 구소희
+author: Cracker9
 ---
 
 안드로이드 디자인을 할 때는 해상도에 따른 디자인을 하는 것이 중요하다. 하지만 실무에서는 디자인 작업 후에도 파일 전달에 있어 협업 부분도 중요하다. 사소한 부분에서 커뮤니케이션이 비효율적으로 발생하면 프로젝트 전체에 영향을 미치기도 한다. 오늘 올리는 글은 초보 디자이너들이 실무에서 놓치기 쉬운 디자인 어셋 이름 가이드에 관한 이야기이다.
@@ -89,8 +89,7 @@ Asset이름은 APP의 고유한 이름으로 결정할 수 있지만 다음 사�
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Design_Asset_Name_Guide">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

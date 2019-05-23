@@ -113,8 +113,7 @@ Cracker9 으로 Linear Layout 을 구성 해 보고 싶다면  ▶ [클릭](http
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_<a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Linear">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

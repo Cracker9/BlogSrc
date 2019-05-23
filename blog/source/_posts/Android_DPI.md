@@ -15,7 +15,7 @@ tags:
 - ldpi
 categories:
 - Design
-author: 구소희
+author: Cracker9
 ---
 
 ## 안드로이드는 처음인데요
@@ -84,8 +84,7 @@ xxhdpi 지원 단말일 경우, 5dp를 pixel로 계산하면
 ***
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Android_DPI">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

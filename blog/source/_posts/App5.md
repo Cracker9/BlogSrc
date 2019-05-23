@@ -6,7 +6,7 @@ tags:
 - App
 categories:
 - Design
-author: 구소희
+author: Cracker9
 ---
 
 
@@ -115,8 +115,7 @@ AIDE는 Play 스토어의 모든 서비스에 연결되지 않습니다. 젠장.
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=App5">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

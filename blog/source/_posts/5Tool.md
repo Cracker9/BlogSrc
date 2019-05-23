@@ -18,7 +18,7 @@ tags:
 - 프로젝트툴
 categories:
 - Develop
-author: 구소희
+author: Cracker9
 ---
 
 프로젝트를 진행하다보면 자연스럽게 개인 뿐만 아니라 프로젝트 전체적인 효율을 높여주는 유용한 플러그인이나 툴을 찾게 되곤 합니다. 그때 각자 맡은 역할에 필요한 툴들이 있는데, 그 중에서 개발자에게 유용한 툴 몇 가지를 소개하겠습니다. 이는 개발 역량뿐만 아니라 프로젝트 전체에 도움이 되는 툴입니다.
@@ -74,8 +74,7 @@ Git으로 형상관리를 해야하고 비공개 프로젝트라면 위의 Githu
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=5Tool">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

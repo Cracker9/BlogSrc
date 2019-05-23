@@ -7,7 +7,7 @@ tags:
 - Java
 categories:
 - Develop
-author: 구소희
+author: Cracker9
 ---
 
 오라클과 구글의 자바 소송에서 오라클이 승소했다는 소식을 접했다.
@@ -76,8 +76,7 @@ author: 구소희
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Kotlin_Java">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

@@ -29,8 +29,7 @@ View의 트리 구조 순서로 레이아웃 xml 코드가 생성되기 때문�
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=User_Interview_hyoungil_Park">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

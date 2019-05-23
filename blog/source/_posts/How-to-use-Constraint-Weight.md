@@ -68,8 +68,7 @@ Cracker9 으로 Constraint Layout 의 Weight 사용 해보고 싶다면  ▶ [�
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_CenterBias">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

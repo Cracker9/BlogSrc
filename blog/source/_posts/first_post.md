@@ -78,8 +78,7 @@ GUI 가이드라인은 디자인의 정보, 예를 들어 한 화면에 들어�
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=first_post">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

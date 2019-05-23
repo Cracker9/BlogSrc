@@ -6,7 +6,7 @@ tags:
 - ICON
 categories:
 - Develop
-author: 구소희
+author: Cracker9
 ---
 
 디자이너가 앱에 필요한 아이콘을 그때그때 직접 만들어준다면 문제가 없지만, 불가피하게 디자이너 없이 만들어야 하는 경우도 있을 것이다.
@@ -94,8 +94,7 @@ https://romannurik.github.io/AndroidAssetStudio/index.html
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Android_Icon_Design">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

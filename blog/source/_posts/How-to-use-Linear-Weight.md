@@ -63,8 +63,7 @@ Cracker9 으로 Linear Layout의 Weight 를 주고 싶다면  ▶ [클릭](https
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Linear_weight">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 
 _____

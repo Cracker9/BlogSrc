@@ -113,7 +113,6 @@ author: Cracker9
 
 _____
 
-* Homepage_ http://cracker9.io
-* Blog_ https://blog.cracker9.io
+* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Univ_Interview">http://cracker9.io</a>
 * Facebook_ https://www.facebook.com/cracker9.io
 _____

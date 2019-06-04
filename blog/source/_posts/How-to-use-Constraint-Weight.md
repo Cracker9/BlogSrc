@@ -63,12 +63,9 @@ author: Cracker9
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다. <br><br>
 
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
-Cracker9 으로 Constraint Layout 의 Weight 사용 해보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/ddd1966e-191d-4087-b81a-f272314d89df/)
+Cracker9 으로 Constraint Layout 의 Weight 사용 해보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/23821565-f6e0-44a9-8928-f0bf15f98005)
 
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_CenterBias">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Constraint_Weight" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Constraint Weight'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

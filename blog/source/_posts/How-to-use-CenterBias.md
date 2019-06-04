@@ -99,11 +99,8 @@ Cracker9에서는 어떻게 Center 코드를 생성할수 있는지 그리고 �
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
 
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
-Cracker9 으로 가운데 정렬과 Constraint Bias 을 설정 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/b3e8a512-52e2-4122-8fe0-e527ccdbd291/)
+Cracker9 으로 가운데 정렬과 Constraint Bias 을 설정 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/4c3f2ad7-b284-4b5b-b371-e7525511fe9d)
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_CenterBias">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_CenterBias" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use CenterBias'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

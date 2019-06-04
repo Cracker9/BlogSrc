@@ -81,10 +81,6 @@ xxhdpi 지원 단말일 경우, 5dp를 pixel로 계산하면
 
 -3. Cracker9의 Unit Converter 
 - 디자이너가 작업하면서 쓰기 유용한 포토샵 플러그인이다. ([바로가기](https://www.adobeexchange.com/creativecloud.details.20685.html))
-***
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Android_DPI">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Android_DPI" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'Android DPI'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

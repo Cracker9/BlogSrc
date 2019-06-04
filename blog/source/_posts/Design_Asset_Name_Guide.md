@@ -88,8 +88,5 @@ Asset이름은 APP의 고유한 이름으로 결정할 수 있지만 다음 사�
   따라서 이미 누군가 add.png 파일을 만든 경우 add.png를 다시 만들려고하면 모두에게 대체 경고가 표시됩니다.
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Design_Asset_Name_Guide">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Design_Asset_Name_Guide" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'Design Asset Name Guide'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

@@ -73,8 +73,5 @@ Cracker9 App을 사용하기 위해서는 먼저 Sketch로 디자인된 Screen�
 
 
 _____
-
-* Homepage_<a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_plugin">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_plugin" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Plugin'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

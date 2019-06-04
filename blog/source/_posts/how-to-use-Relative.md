@@ -108,11 +108,8 @@ Cracker9 툴은 이를 코드로 작성하지 않고 마우스로 연결하여 �
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
 
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
-Cracker9 으로 Relative Layout 을 구성 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/402afe59-88df-4933-b22b-885b3fb11531/)
+Cracker9 으로 Relative Layout 을 구성 해 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/be4ccebc-60f7-4269-82da-3b4ec553d99b)
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Relative">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Relative" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Relative'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

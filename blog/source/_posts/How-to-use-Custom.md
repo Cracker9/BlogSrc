@@ -75,11 +75,8 @@ Custom Layout으로 영역을 생성하는 방법은 2가지가 있는데, 하�
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.
 
 Cracker9 이 없다면 ▶ [클릭](http://cracker9.io/#skip-downloads)
-Cracker9 으로 Custom Layout 를 만들어 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/090e6013-111a-4993-aec8-d9972d981a89/)
+Cracker9 으로 Custom Layout 를 만들어 보고 싶다면  ▶ [클릭](https://release.cracker9.io/code-snippet/artboards/ed96f4fe-8ad0-41f8-96b3-c7f4395eb7a5)
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Custom">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Custom" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Custom'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

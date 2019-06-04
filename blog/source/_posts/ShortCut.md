@@ -52,10 +52,7 @@ View를 Drag & Drop 후
 ![ZoomInOut](/img/ShortCut/img_zoom.png?raw=true)
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=ShortCut">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=ShortCut" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'ShortCut'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____
  
 

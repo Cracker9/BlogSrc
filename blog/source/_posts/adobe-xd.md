@@ -70,8 +70,5 @@ UX/UI 디자이너들의 생산성을 높여주는 디자인 툴 스케치의 �
 UX/UI 디자인 관련 툴 중에는 작업의 능률을 올려주는 좋은 툴들이 참 많고, 앞으로도 계속 더 많아질 것 같습니다. 비록 크래커나인은 디자인 툴은 아니지만, 디자이너와 개발자의 업무 효율을 높혀 크리에이티브에 좀 더 집중할 수 있도록 돕고 있습니다. 그렇기 때문에 하루 빨리 스케치 외에 다른 디자인 툴을 호환시켜 더 많은 디자이너분들이 크래커나인을 접할 수 있도록 하겠습니다.
 ##   
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=sketch_vs_xd">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=sketch_vs_xd" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'sketch_vs_xd'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

@@ -75,8 +75,5 @@ author: Cracker9
 * http://mindols.tistory.com/93
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Kotlin_Java">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Kotlin_Java" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'Kotlin Java'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

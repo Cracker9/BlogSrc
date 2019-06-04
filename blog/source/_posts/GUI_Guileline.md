@@ -45,8 +45,5 @@ GUI 가이드 문서 상에는 화면상에 표현되는 모든 GUI 요소들의
 
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=GUI_guideline">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=GUI_guideline" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'GUI guideline'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

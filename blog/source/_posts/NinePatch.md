@@ -116,8 +116,5 @@ With content를 체크해주셔야 텍스트가 보여집니다.
 부족하지만 나인패치에 대해 알아가는 시간이 되었기를 바라며, 이번 글은 여기서 마무리 하겠습니다.
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=NinePatch">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=NinePatch" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'NinePatch'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

@@ -112,7 +112,5 @@ author: Cracker9
 **컴공학도 B >** 단점이라기 보다 변경이 되었으면 하는 부분은 대부분 수치라는게 많이 쓰이지 않거든요. 꽉찬 영역들은 Match parent 로 많이 쓰니까 'Default 가 아예 Match parent 면 좋지 않을까?' 라는 생각이 들었어요. 그리고 제 생각으로는 Zeplin 보다 훨씬 더 편리한 툴인 것 같아요. 사실, Zeplin은 GUI 정보만 제공해주는 것에서 끝이지만 크래커나인은 Layout 코드까지 생성해주니까요. 개발의 효율성 면에서 휠씬 좋은 것 같아요. 실제로 스터디할 때 적극적으로 사용해보고 싶은 툴이에요.
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Univ_Interview">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Univ_Interview" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'Univ Interview'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

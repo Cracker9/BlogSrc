@@ -77,10 +77,7 @@ GUI 가이드라인은 디자인의 정보, 예를 들어 한 화면에 들어�
 많은 관심 부탁 드립니다. 감사합니다.
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=first_post">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=first_post" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'First Post'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____
 
 

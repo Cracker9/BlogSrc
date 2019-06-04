@@ -57,8 +57,5 @@ Link의 보안을 위해 Link Password를 설정합니다.
 ![P_Feature05](/img/Plugin_Feature/05.jpg?raw=true)
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Plugin_Feature">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Plugin_Feature" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'Plugin Feature'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

@@ -114,8 +114,5 @@ AIDE. 어떻게 저의 마음을 아프게 할 수 있나요
 AIDE는 Play 스토어의 모든 서비스에 연결되지 않습니다. 젠장.
 
 _____
-
-* Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=App5">http://cracker9.io</a>
-* Facebook_ https://www.facebook.com/cracker9.io
-
+ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=App5" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'App5'});">![cracker9](/img/Logo/Cracker9_Symbollogo.png?raw=true)</a>
 _____

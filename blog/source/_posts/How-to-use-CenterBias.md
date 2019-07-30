@@ -1,6 +1,6 @@
 ---
-title: Tutorial - Android view Center & Constraint Layout Bias 사용법
-date: 2018-06-28 14:00:00
+title: 크래커나인 Android view Center & Constraint Layout Bias 사용법
+date: 2019-06-28 14:00:00
 tags: 
 - Android
 - Layout

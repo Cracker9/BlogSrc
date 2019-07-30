@@ -1,6 +1,6 @@
 ---
-title: Tutorial - Linear Layout 사용법
-date: 2018-06-26 10:21:10
+title: 크래커나인 Linear Layout 구성하기
+date: 2019-06-26 10:21:10
 tags: 
 - Android
 - Layout

@@ -1,6 +1,6 @@
 ---
-title: Tutorial - Sketch Plugin 사용법
-date: 2018-06-25 18:00:00
+title: 크래커나인 Sketch 플러그인 사용가이드 (업데이트)
+date: 2019-07-25 18:00:00
 tags: 
 - Sketch
 - Plugin
@@ -65,8 +65,8 @@ Cracker9 App을 사용하기 위해서는 먼저 Sketch로 디자인된 Screen�
 <span style="color:#4d4d4d">**STEP 02.** 화면이 제대로 나왔다면, Link List로 되돌아가서 개발자에게 링크 주소와 비밀번호를 전달하면 됩니다.
 #  
 
-<span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.
-![이미지 텍스트](스크린샷 이미지)](유투브링크)
+<span style="color:#4d4d4d">위의 과정을 담은 [영상](https://youtu.be/IcGkcR7CvHI)을 첨부하니 참고해주세요.
+
 
 <span style="color:#4d4d4d">그럼, 그 외에 문의사항은 [hello@cracker9.io](helloo@cracker9.io) 로 메일주세요!
 크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.

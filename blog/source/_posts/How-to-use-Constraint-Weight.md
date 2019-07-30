@@ -1,6 +1,6 @@
 ---
-title: Tutorial - Constraint Layout의 Weight 사용법
-date: 2018-06-27 14:30:00
+title: 크래커나인 Constraint Layout의 가중치 주기
+date: 2019-06-27 14:30:00
 tags: 
 - Android
 - Layout

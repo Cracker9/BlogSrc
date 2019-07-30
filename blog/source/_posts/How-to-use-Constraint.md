@@ -1,6 +1,6 @@
 ---
-title: Tutorial - Constraint Layout 사용법
-date: 2018-06-27 12:00:00
+title: 크래커나인 Constraint Layout 구현하기
+date: 2019-06-27 12:00:00
 tags: 
 - Android
 - Layout

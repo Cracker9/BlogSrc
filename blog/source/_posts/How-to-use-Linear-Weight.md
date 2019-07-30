@@ -1,6 +1,6 @@
 ---
-title: Tutorial - Linear Layout의 Weight 사용법
-date: 2018-06-26 16:40:06
+title: 크래커나인 Linear Layout의 Weight 사용법
+date: 2019-06-26 16:40:06
 tags: 
 - Android
 - Layout

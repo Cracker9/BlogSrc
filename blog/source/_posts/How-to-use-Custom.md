@@ -1,6 +1,6 @@
 ---
-title: Tutorial - Custom Layout 사용법
-date: 2018-06-28 11:00:00
+title: 크래커나인 Custom Layout 적용하기
+date: 2019-06-28 11:00:00
 tags: 
 - Android
 - Layout

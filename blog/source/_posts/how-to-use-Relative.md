@@ -1,6 +1,6 @@
 ---
-title: Tutorial - Relative Layout 사용법
-date: 2018-06-27 10:00:00
+title: 크래커나인 Relative Layout 구성하기
+date: 2019-06-27 10:00:00
 tags: 
 - Android
 - Layout

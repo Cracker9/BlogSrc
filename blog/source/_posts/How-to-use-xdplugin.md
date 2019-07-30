@@ -27,6 +27,8 @@ Cracker9 App을 사용하기 위해서는 먼저 Adobe XD 로 디자인된 Scree
 ![](/img/HowToUseXDPlugin/02.png)
 
     - 아트보드를 선택하지 않고 선택할 경우 아래와 같은 메시지가 표시됩니다.
+![](/img/HowToUseXDPlugin/02-1.png)
+
 <span style="color:#4d4d4d">**STEP 03.**   선택한 **아트보드의 개수를 확**인하고, **플랫폼을 선택**합니다.
     지원하는 플랫폼 : android / iOS / web
 ![](/img/HowToUseXDPlugin/03.png)
